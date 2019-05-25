@@ -4,26 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/PlayerClass.java" line="144" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1979ba95-4f43-44b4-8632-0b80ea5a4852" name="Default" comment="Updated">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/BossEnemyClass$Boss.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/BossEnemyClass$Boss.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/BossEnemyClass.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/BossEnemyClass.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/CollisionProperties.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/CollisionProperties.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/CubeCharClass.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/CubeCharClass.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/CubeQuest.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/CubeQuest.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/EnemyClass$Enemy.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/EnemyClass$Enemy.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/EnemyClass.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/EnemyClass.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/PlayerClass$1.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/PlayerClass$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/PlayerClass$Player.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/PlayerClass$Player.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/PlayerClass$PlayerShot.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/PlayerClass$PlayerShot.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/PlayerClass.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/PlayerClass.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/WorldClass$Camera.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/WorldClass$Camera.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/CubeQuestTest/WorldClass.class" afterPath="$PROJECT_DIR$/out/production/CubeQuestTest/WorldClass.class" />
-      <change beforePath="$PROJECT_DIR$/src/BossEnemyClass.java" afterPath="$PROJECT_DIR$/src/BossEnemyClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/EnemyClass.java" afterPath="$PROJECT_DIR$/src/EnemyClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/WorldClass.java" afterPath="$PROJECT_DIR$/src/WorldClass.java" />
-    </list>
+    <list default="true" id="1979ba95-4f43-44b4-8632-0b80ea5a4852" name="Default" comment="Updated" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,10 +66,11 @@
       <file leaf-file-name="CurrentLevel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CurrentLevel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="493">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
                 <element signature="e#381#382#0" expanded="true" />
               </folding>
             </state>
@@ -481,7 +463,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17921527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25137213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25137213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -649,6 +631,7 @@
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
           </folding>
         </state>
@@ -954,10 +937,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CurrentLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
           </folding>
         </state>
